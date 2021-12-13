@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/aboutAppleMarket/static/css/main.5437fd75.chunk.css",
+    "main.js": "/aboutAppleMarket/static/js/main.754ffe9d.chunk.js",
+    "main.js.map": "/aboutAppleMarket/static/js/main.754ffe9d.chunk.js.map",
+    "runtime-main.js": "/aboutAppleMarket/static/js/runtime-main.a6c70a39.js",
+    "runtime-main.js.map": "/aboutAppleMarket/static/js/runtime-main.a6c70a39.js.map",
+    "static/js/2.224418b8.chunk.js": "/aboutAppleMarket/static/js/2.224418b8.chunk.js",
+    "static/js/2.224418b8.chunk.js.map": "/aboutAppleMarket/static/js/2.224418b8.chunk.js.map",
+    "index.html": "/aboutAppleMarket/index.html",
+    "static/css/main.5437fd75.chunk.css.map": "/aboutAppleMarket/static/css/main.5437fd75.chunk.css.map",
+    "static/js/2.224418b8.chunk.js.LICENSE.txt": "/aboutAppleMarket/static/js/2.224418b8.chunk.js.LICENSE.txt",
+    "static/media/xmas1.a8ed8b7e.jpg": "/aboutAppleMarket/static/media/xmas1.a8ed8b7e.jpg",
+    "static/media/xmas2.3114d5c0.jpg": "/aboutAppleMarket/static/media/xmas2.3114d5c0.jpg",
+    "static/media/xmas3.6b12f991.jpg": "/aboutAppleMarket/static/media/xmas3.6b12f991.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6c70a39.js",
+    "static/js/2.224418b8.chunk.js",
+    "static/css/main.5437fd75.chunk.css",
+    "static/js/main.754ffe9d.chunk.js"
+  ]
+}
