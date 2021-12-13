@@ -22,7 +22,7 @@ function App() {
         <Routes>
           <Route path="/page/:detail/:num" element={<List />} />
           <Route path="/movie/:id" element={<Detail />} />
-          <Route path={process.env.PUBLIC_URL + "/appleMarket"} element={<Home />} />
+          <Route path={process.env.PUBLIC_URL + "/"} element={<Home />} />
         </Routes>
       </Router>
     </RecoilRoot>

@@ -44,7 +44,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://jsol3122.github.io/aboutAppleMarket",
+  "homepage": "https://jsol3122.github.io/aboutAppleMarket/",
   "devDependencies": {
     "cross-env": "^7.0.3"
   }
