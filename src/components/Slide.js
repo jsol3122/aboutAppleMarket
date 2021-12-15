@@ -42,7 +42,7 @@ function Slide() {
                   transform: `translateX(${trans}px)`
               }}>
                 
-                  <img src={img1} alt='대타' width='1050px' height='500px'/>
+                  <img src='https://raw.githubusercontent.com/jsol3122/appleMarket/master/appleMarket/src/main/webapp/img/applemarketmain1.png' alt='대타' width='1050px' height='500px'/>
                   <img src={img2} alt='대타' width='1050px' height='500px'/>
                   <img src={img3} alt='대타' width='1050px' height='500px'/>
               </div>
