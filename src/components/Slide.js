@@ -43,8 +43,11 @@ function Slide() {
               }}>
                 
                   <img src='https://raw.githubusercontent.com/jsol3122/appleMarket/master/appleMarket/src/main/webapp/img/applemarketmain1.png' alt='대타' width='1050px' height='500px'/>
-                  <img src={img2} alt='대타' width='1050px' height='500px'/>
-                  <img src={img3} alt='대타' width='1050px' height='500px'/>
+                  <img src='https://raw.githubusercontent.com/jsol3122/daily_git/master/git_test/img/001.png' alt='대타' width='1050px' height='500px'/>
+                  <img src='https://raw.githubusercontent.com/jsol3122/daily_git/master/git_test/img/002.png' alt='대타' width='1050px' height='500px'/>
+                  <img src='https://raw.githubusercontent.com/jsol3122/daily_git/master/git_test/img/003.png' alt='대타' width='1050px' height='500px'/>
+                  <img src='https://raw.githubusercontent.com/jsol3122/daily_git/master/git_test/img/004.png' alt='대타' width='1050px' height='500px'/>
+                  <img src='https://raw.githubusercontent.com/jsol3122/daily_git/master/git_test/img/005.png' alt='대타' width='1050px' height='500px'/>
               </div>
             </div>
           }
