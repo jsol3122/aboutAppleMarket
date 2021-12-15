@@ -18,7 +18,7 @@ function Slide() {
       setTrans(current => current + 1050);
     }
     const onClickR = () => {
-      if (trans <= -4450) {
+      if (trans <= -6300) {
         return;
       }
       setTrans(current => current - 1050);
